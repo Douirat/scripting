@@ -22,6 +22,7 @@ exit 0
 fi
 
 echo "$result"
+
 }
 
 main "$@"
